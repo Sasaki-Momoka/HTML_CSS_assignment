@@ -43,7 +43,7 @@ body {
   background-color: white;
 }
 
-.container{
+.container {
   margin-top: 10px;
   margin-left: 200px;
   border: 1px solid black;
@@ -56,12 +56,12 @@ body {
   margin-left: 0;
   background-color:blue;
   height: 100px;
-  width:200px;
+  width: 200px;
 }
 
-.red_box  {
- margin-left:300px;
- background-color:red;
- height:100px;
- width:200px;
+.red_box {
+ margin-left: 300px;
+ background-color: red;
+ height: 100px;
+ width: 200px;
 }
