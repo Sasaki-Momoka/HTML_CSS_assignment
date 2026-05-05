@@ -39,6 +39,7 @@ body {
 
 /* 上の部分は気にせずここから書く */
 * {
+  position: relative;
   background-color: white;
 }
 
@@ -92,16 +93,16 @@ left: 740px;
 }
 
 .s6 {
-  bottom:60px;
+  bottom:10px;
   left: 1015px;
 }
 
 .s7 {
-  bottom: 150px;
+  bottom: 100px;
   left: 1015px;
 }
 
-.s8{
-  bottom: 240px;
+.s8 {
+  bottom: 190px;
   left: 1015px;
 }
